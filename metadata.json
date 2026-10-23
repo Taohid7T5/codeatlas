@@ -1,0 +1,6 @@
+{
+  "name": "CodeAtlas",
+  "description": "The Universal Programming Search Engine — Every coding concept, syntax rule, and error solution in one search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
